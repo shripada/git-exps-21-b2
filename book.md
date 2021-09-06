@@ -10,11 +10,6 @@
 -   Invented by Linus
 -   used by millions
 
-<ul>
-<li>1968. A great year!</li>
-<li>I think 1969 was second best.</li>
-</ul>
-
 ```
  let x  = f (y)
 ```
